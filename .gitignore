@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+*.ckpt
+log_rcr_ir/
+results_rcr_ir/
+.DS_Store
