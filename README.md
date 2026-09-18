@@ -6,7 +6,7 @@ RCR-IR formulates encoder-to-decoder skip reuse as a **preserve-or-correct** rou
 
 ## Model Architecture
 
-![image-20260918192821705](/Users/zyh/Library/Application Support/typora-user-images/image-20260918192821705.png)
+![model](../RCR-IR/figures/model.png)
 
 ## Environment
 
@@ -111,6 +111,6 @@ Pre-trained models will be released here:
 
 | Protocol           | Checkpoint                                                   |
 | ------------------ | ------------------------------------------------------------ |
-| Three degradations | [Download](https://chatgpt.com/g/g-p-6902084e28a88191b7196fb0aaa35dde/c/PRETRAINED_3TASK_LINK) |
-| Five degradations  | [Download](https://chatgpt.com/g/g-p-6902084e28a88191b7196fb0aaa35dde/c/PRETRAINED_5TASK_LINK) |
-| CDD-11             | [Download](https://chatgpt.com/g/g-p-6902084e28a88191b7196fb0aaa35dde/c/PRETRAINED_CDD11_LINK) |
+| Three degradations | [Download](https://drive.google.com/file/d/1K0GczFwB3ql7tVZ-ZeI1BU0jflUSl4K1/view?usp=sharing) |
+| Five degradations  | [Download](https://drive.google.com/file/d/1TDkp-yH6MAflH-sy14sHvK7zjVaentF1/view?usp=sharing) |
+| CDD-11             | [Download](https://drive.google.com/file/d/10FrUn2Je4aFioff7urnQxidkGEZnvHng/view?usp=drive_link) |
