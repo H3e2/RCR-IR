@@ -112,5 +112,5 @@ Pre-trained models will be released here:
 | Protocol           | Checkpoint                                                   |
 | ------------------ | ------------------------------------------------------------ |
 | Three degradations | [Download](https://drive.google.com/file/d/1K0GczFwB3ql7tVZ-ZeI1BU0jflUSl4K1/view?usp=sharing) |
-| Five degradations  | [Download](https://drive.google.com/file/d/1TDkp-yH6MAflH-sy14sHvK7zjVaentF1/view?usp=sharing) |
+| Five degradations  | [Download](https://drive.google.com/file/d/1AtP-MqCb1afqkDSYEpX1Y7ksc5xxbP5U/view?usp=sharing) |
 | CDD-11             | [Download](https://drive.google.com/file/d/10FrUn2Je4aFioff7urnQxidkGEZnvHng/view?usp=drive_link) |
