@@ -6,7 +6,7 @@ RCR-IR formulates encoder-to-decoder skip reuse as a **preserve-or-correct** rou
 
 ## Model Architecture
 
-![model](../RCR-IR/figures/model.png)
+![model](/figures/model.png)
 
 ## Environment
 
